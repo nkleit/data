@@ -1,0 +1,91 @@
+﻿Country,Fixed,FlexibleFloat and Pegged Float,exchange rate,Inflation Rate (%),infdec,GDP Growth (%),gdpdec,exclude,Index of Govt. Spend.,Index of Human Capital,Capital Form (%GDP),CapFormdec
+Afghanistan,,Managed Floating,0,8.3,0.0830,14.4,0.144,0,83.2,2.819,17,0.170
+Australia,,Free Floating,0,1.9,0.0190,3.7,0.037,0,62.8,3.389,29,0.290
+Austria,,Stabilized Arrange.,0,1.9,0.0190,0.9,0.009,0,23.5,2.840,24,0.240
+Bahrain,Conventional Peg,,1,2.2,0.0220,3.6,0.036,0,72.4,2.857,20,0.200
+Belgium,,Free Floating,0,2.1,0.0210,0.1,0.001,0,14.5,3.060,24,0.240
+Belize,Conventional Peg,,1,1.9,0.0190,3.8,0.038,0,72.6,2.852,16,0.160
+Bolivia,,Stabilized Arrange.,0,6.9,0.0690,5.2,0.052,0,64.1,2.907,18,0.180
+Botswana,,Crawling Peg,0,1.1,0.0110,4.3,0.043,0,65.1,2.846,39,0.390
+Brazil,,Managed Floating,0,4.9,0.0490,1,0.01,0,54.8,2.447,18,0.180
+Bulgaria,Currency Board,,1,1.6,0.0160,0.5,0.005,0,64.2,2.900,22,0.220
+Cambodia,,Stabilized Arrange.,0,1.4,0.0140,7.3,0.073,0,88.4,1.857,18,0.180
+Canada,,Free Floating,0,1.7,0.0170,1.7,0.017,0,44.8,3.379,25,0.250
+Central African Republic,Conventional Peg,,1,2.7,0.0270,4.1,0.041,0,92.4,1.638,15,0.150
+Chile,,Free Floating,0,1.3,0.0130,5.4,0.054,0,83.7,2.968,25,0.250
+China,,Craw-like Arrange.,0,2,0.0200,7.7,0.077,0,83.3,2.579,49,0.490
+"Congo, Rep. of",Conventional Peg,,1,-1.2,-0.0120,3.8,0.038,0,60.1,2.156,26,0.260
+Czech Republic,,Free Floating,0,1.4,0.0140,-0.8,-0.008,0,43.5,3.386,26,0.260
+Denmark,Conventional Peg,,1,2.5,0.0250,-0.7,-0.007,0,5.9,2.927,19,0.190
+Dominica,Currency Board,,1,2.7,0.0270,-1.4,-0.014,0,50.1,2.393,14,0.140
+Ecuador,No separate legal tender,,1,5,0.0500,5.2,0.052,0,47.3,2.591,28,0.280
+Egypt,,Craw-like Arrange.,0,12.4,0.1240,2.2,0.022,0,69.4,2.307,16,0.160
+El Salvador,No separate legal tender,,1,1,0.0100,1.9,0.019,0,85.4,2.53,14,0.140
+Estonia,,Free Floating,0,2.7,0.0270,4.7,0.047,0,56.2,3.307,29,0.290
+Finland,,Free Floating,0,2.6,0.0260,-1.5,-0.015,0,12.2,2.924,22,0.220
+France,,Free Floating,0,1.2,0.0120,0.3,0.003,0,5.6,3.04,23,0.230
+Gabon,Conventional Peg,,1,-2.7,-0.0270,5.6,0.056,0,80.1,2.59,32,0.320
+Germany,,Free Floating,0,1.5,0.0150,0.4,0.004,0,37.3,3.32,19,0.190
+Greece,,Free Floating,0,0.1,0.0010,-6.6,-0.066,0,24.7,3.071,14,0.140
+Honduras,,Craw-like Arrange.,0,4,0.0400,3.9,0.039,0,79.2,2.385,26,0.260
+Hong Kong,Currency Board,,1,3.7,0.0370,1.5,0.015,0,88.9,3.013,25,0.250
+Iceland,,Managed Floating,0,3.1,0.0310,1.1,0.011,0,36.2,3.067,16,0.160
+India,,Managed Floating,0,7.2,0.0720,4.7,0.047,0,77.9,1.93,35,0.350
+Indonesia,,Craw-like Arrange.,0,4.4,0.0440,6.3,0.063,0,89.2,2.08,35,0.350
+Ireland,,Free Floating,0,1.3,0.0130,-0.3,-0.003,0,28.8,3.275,16,0.160
+Israel,,Free Floating,0,4.1,0.0410,3,0.03,0,39.3,3.217,21,0.210
+Italy,,Free Floating,0,1.6,0.0160,-2.3,-0.023,0,25.3,2.827,19,0.190
+Jamaica,,Craw-like Arrange.,0,5.1,0.0510,0.7,0.007,0,67.7,2.884,20,0.200
+Japan,,Free Floating,0,-0.9,-0.0090,1.8,0.018,0,45,3.269,21,0.210
+Jordan,Conventional Peg,,1,4.5,0.0450,2.7,0.027,0,68.8,2.772,27,0.270
+Kenya,,Managed Floating,0,9.3,0.0930,4.5,0.045,0,73.5,2.235,22,0.220
+Kuwait,Conventional Peg,,1,5.8,0.0580,8.3,0.083,0,61.5,2.163,13,0.130
+Luxembourg,,Free Floating,0,3.5,0.0350,-0.2,-0.002,0,47.1,2.945,18,0.180
+Mexico,,Free Floating,0,3.2,0.0320,4,0.04,0,79.4,2.751,23,0.230
+Morocco,Conventional Peg,,1,0.4,0.0040,2.7,0.027,0,64.3,1.893,35,0.350
+Namibia,Conventional Peg,,1,12.9,0.1290,5.2,0.052,0,71.5,2.129,27,0.270
+Nepal,Conventional Peg,,1,6.6,0.0660,4.9,0.049,0,89.2,1.712,34,0.340
+New Zealand,,Managed Floating,0,-0.5,-0.0050,2.5,0.025,0,33.2,3.519,20,0.200
+Niger,Conventional Peg,,1,0.5,0.0050,11,0.11,0,80.1,1.279,35,0.350
+Norway,,Free Floating,0,2.8,0.0280,2.9,0.029,0,40.3,3.42,25,0.250
+Peru,,Managed Floating,0,2.1,0.0210,6,0.06,0,89.1,2.727,27,0.270
+Phillipines,,Managed Floating,0,1.9,0.0190,6.8,0.068,0,90.2,2.73,18,0.180
+Poland,,Free Floating,0,2.2,0.0220,1.8,0.018,0,43,2.902,21,0.210
+Portugal,,Free Floating,0,-0.4,-0.0040,-3.3,-0.033,0,28.3,2.565,17,0.170
+Qatar,Conventional Peg,,1,5.7,0.0570,6,0.06,0,81.2,2.424,29,0.290
+Romania,,Managed Floating,0,5.2,0.0520,0.4,0.004,0,62.2,3.001,27,0.270
+Saudi Arabia,Conventional Peg,,1,3.6,0.0360,5.8,0.058,0,52.2,2.648,26,0.260
+Singapore,,Craw-like Arrange.,0,1.5,0.0150,2.5,0.025,0,91.3,2.765,30,0.300
+Slovakia,,Free Floating,0,1.3,0.0130,1.6,0.016,0,58,3.167,31,0.310
+Slovenia,,Free Floating,0,0.3,0.0030,-2.6,-0.026,0,22.3,3.276,19,0.190
+South Africa,,Managed Floating,0,4.5,0.0450,2.5,0.025,0,69.2,2.645,19,0.190
+Spain,,Free Floating,0,0.2,0.0020,-2.1,-0.021,0,43,3.013,20,0.200
+Sri Lanka,,Managed Floating,0,8.9,0.0890,6.3,0.063,0,86.5,3.161,30,0.300
+Sweden,,Free Floating,0,1.1,0.0110,-0.3,-0.003,0,21,3.244,23,0.230
+Thailand,,Managed Floating,0,0.2,0.0020,7.7,0.077,0,83.7,2.412,30,0.300
+Tunisia,,Craw-like Arrange.,0,4.4,0.0440,4.7,0.047,0,63.7,2.385,24,0.240
+Turkey,,Managed Floating,0,6.9,0.0690,2.1,0.021,0,64.9,2.357,20,0.200
+Ukraine,,Stabilized Arrange.,0,8.2,0.0820,0.2,0.002,0,29.4,3.16,20,0.200
+United Kingdom,,Free Floating,0,1.7,0.0170,0.7,0.007,0,27.7,2.823,17,0.170
+United States,,Free Floating,0,1.8,0.0180,2.3,0.023,0,47.8,3.619,20,0.200
+Venezuela,Conventional Peg,,1,14.1,0.1410,5.6,0.056,0,50.6,2.343,27,0.270
+Vietnam,,Stabilized Arrange.,0,10.9,0.1090,5.2,0.052,0,72.4,2.165,27,0.270
+Zimbabwe,No separate legal tender,,1,3,0.0300,10.6,0.106,0,66.4,2.482,14,0.140
+South Korea,,Managed Floating,0,1,0.0100,2.4,0.024,0,72.8,3.347,31,0.310
+Netherlands,,Free Floating,0,1.3,0.013,-1.6,-0.016,0,0,3.143,19,0.19
+Micronesia,No separate legal tender,,1,4.7,,0.4,0.004,1,3.9,,,
+Azerbajian,,,0,1.4,,2.2,0.022,1,67.8,,22,
+"Bahamas, The",Conventional Peg,,1,2.6,,1,0.01,1,84.9,,28,
+Bosnia and Herzegovina,Currency Board,,1,1.1,,-1.2,-0.012,1,26.9,,19,
+Cyprus,,Free Floating,0,1.6,,-2.4,-0.024,1,32.7,2.947,,
+Djibouti,Currency Board,,1,6.1,,3,0.03,1,48.8,,,
+Lebanon,,Stabilized Arrange.,0,5.5,,2.2,0.022,1,74.6,,29,
+Libya,Conventional Peg,,1,18.9,,104.5,1.045,1,,,,
+Lithuania,Currency Board,,1,2.6,,3.7,0.037,1,53.6,3.095,,
+Macedonia,,Stabilized Arrange.,0,0.1,,-0.4,-0.004,1,69.1,,37,
+Malta,,Free Floating,0,2.2,,1.1,0.011,1,44.1,3.006,,
+Micronesia,No separate legal tender,,1,4.7,,0.4,0.004,1,0,,,
+Nicaragua,,Crawling Peg,0,7.6,,5,0.05,1,65.1,,23,
+Oman,Conventional Peg,,1,5.4,,5.8,0.058,1,69.1,,25,
+Turkmenistan,Conventional Peg,,1,8.3,,11.1,11.1,1,91.7,,47,
+United Arab Emirates,Conventional Peg,,1,2.4,,4.7,4.7,1,85.1,,22,
